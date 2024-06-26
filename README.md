@@ -1,10 +1,10 @@
-##Install Guide
+## Install Guide
 
-#composer install
+# composer install
 
-#cp .env.example .env (or) copy .env.example.env
+# cp .env.example .env (or) copy .env.example.env
 
-#php artisan key:generate
+# php artisan key:generate
 
-#php artisan db:seed
+# php artisan db:seed
 
